@@ -8,7 +8,7 @@ Hi,I am a postgradute student in Department of Digital Humanities at King's Coll
 
 ### More Information
 
-You can also find me on bilibili @暴吻吻
+You can also find me on bilibili [@暴吻吻](https://space.bilibili.com/382993515)
 
 ### Contact me
 

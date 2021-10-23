@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi,I am a postgradute student in Department of Digital Humanities at King's College London. I got my Advertising Bachelor degree in Xiamen University in China. This is my first blog and I will share my life with you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+You can also find me on bilibili @暴吻吻
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[wen.bai@kcl.ac.uk](wen.bai@kcl.ac.uk)

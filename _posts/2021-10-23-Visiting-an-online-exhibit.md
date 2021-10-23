@@ -1,5 +1,5 @@
 ---
-<h3>**Title: Impression of visiting an online exhibit**</h3>
+**Title: Impression of visiting an online exhibit**
 
 Today I went on a [virtual tour](https://artsandculture.google.com/streetview/the-natural-history-museum-hintze-hall/yQHjHCmSOMKyhQ?sv_lng=-0.1763002033314968&sv_lat=51.49614943214926&sv_h=328.26907700203446&sv_p=21.747201048821324&sv_pid=xCOPaa20DC3Z4eRiKDUyew&sv_z=1) at [Natural History Museum virtual museum](http://nhm.ac.uk/visit/virtual-museum.html). The site is supported a third-party platform Google Arts & Culture and provides an interactive gigapixel photo that I can zoom in to see the details of the museum, which is amazing and free me from going to the museum in person.😄
 
@@ -8,9 +8,11 @@ Through visiting the virtual museum, I was attracted by the 🐳 [blue whale](ht
 
 
 The interactive has 3 sections: 
-1. What her life was like [in the ocean](https://www.nhm.ac.uk/bluewhale/ocean/)
-2. How she got to her home in the [the Hintze Hall](https://www.nhm.ac.uk/bluewhale/hall/) 
-3. A Behind-the-scenes peek of the [museum's collections](https://www.nhm.ac.uk/bluewhale/study/)
+1. [What her life was like in the ocean](https://www.nhm.ac.uk/bluewhale/ocean/)
+2. [How she got to her home in the the Hintze Hall](https://www.nhm.ac.uk/bluewhale/hall/) 
+3. [A Behind-the-scenes peek of the museum's collections](https://www.nhm.ac.uk/bluewhale/study/)
+
+
 I leanrned that the whale is a female who beached in 1891 and it took experts months to construct a new armature and position the whale in its new diving posture. 
 
 

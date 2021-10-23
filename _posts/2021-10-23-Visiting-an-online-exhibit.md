@@ -7,7 +7,7 @@ Today I went on a [virtual tour](https://artsandculture.google.com/streetview/th
 Through visiting the virtual museum, I was attracted by the [blue whale](https://www.nhm.ac.uk/bluewhale/) suspended from the ceiling in Hintze Hall and an online interactive was built for it. I was quite impressed by the realistic background sound to enhance the immediacy and I can easily explore the whale by selecting an icon. 
 
 
-The interactive has 3 sections: what her life was like [in the ocean](https://www.nhm.ac.uk/bluewhale/ocean/), how she got to her home in the [the Hintze Hall](https://www.nhm.ac.uk/bluewhale/hall/) and behind-the-scenes peek of the [Museum's collections](https://www.nhm.ac.uk/bluewhale/study/). I leanrned that the whale is a female who beached in 1891 and it took experts months to construct a new armature and position the whale in its new diving posture. 
+The interactive has 3 sections: what her life was like [in the ocean](https://www.nhm.ac.uk/bluewhale/ocean/), how she got to her home in the [the Hintze Hall](https://www.nhm.ac.uk/bluewhale/hall/) and behind-the-scenes peek of the [museum's collections](https://www.nhm.ac.uk/bluewhale/study/). I leanrned that the whale is a female who beached in 1891 and it took experts months to construct a new armature and position the whale in its new diving posture. 
 
 
 What's more, I can view the skeleton in [augmented reality (AR)](https://artsandculture.google.com/asset/GAG_J9wcz31GXw), which makes me grateful for the digital technologies that prolong the life of these collections and give everyone access to this spectacular archieve.

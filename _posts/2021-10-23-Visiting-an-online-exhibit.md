@@ -16,11 +16,7 @@ The interactive has 3 sections:
 
 
 
-I leanrned that the whale is a female👧 who beached in 1891 and it took experts months to construct a new armature and position the whale in its new diving posture. 
-
-
-
-What's more, I can view the skeleton in [augmented reality (AR)](https://artsandculture.google.com/asset/GAG_J9wcz31GXw), which makes me grateful for the digital technologies that prolong the life of these collections and give everyone access to this spectacular archieve.🙏
+I leanrned that the whale is a female👧 who beached in 1891 and it took experts months to construct a new armature and position the whale in its new diving posture. What's more, I can view the skeleton in [augmented reality (AR)](https://artsandculture.google.com/asset/GAG_J9wcz31GXw), which makes me grateful for the digital technologies that prolong the life of these collections and give everyone access to this spectacular archieve.🙏
 
 
 

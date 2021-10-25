@@ -1,6 +1,6 @@
 ---
 layout：post
-title：Natural History Museum online exhibit
+title：Natural History Museum online exhibit-Wildlife
 ---
 
 ## Background

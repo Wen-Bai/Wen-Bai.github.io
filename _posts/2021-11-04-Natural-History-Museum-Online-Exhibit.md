@@ -16,16 +16,16 @@ With a click on any one of the secenes, a new page will open and more details ab
 On all pages, there are 3 icons at the bottom right: facebook, twitter and other information. The first 2 are for users to share on social media and the other information includes copyright, privacy policy and terms&conditions.
 
 
+## Categories
+
+There are 3 main categories of the website: The Ocean, Hintze Hall and The collections and each of them have several subtitles. These are based on the content and they are simplified adn clear, useful to users to identify what they need quikly. 
+
+
 ## User Experience
 
 The look of the online exhibit website is simple and clear. On the main page, information was simplified to 3 clear categories, which saves users a lot of time and make the whole experience easily. When exploring the online exhibit, users will hear realistic background sound kind of like white-noise which is very relaxing and enhances the feeling of immersion. 
 
 As to visual impact, except those from detail pages, all backgroung images are high-quality and dynamic which can move along with the cursor, making users feel less boring and more focused whenm expolring the site. In addition, the site color is dark which comnbines well with the deep ocean vibe.
-
-
-## Categories
-
-There are 3 main categories of the website: The Ocean, Hintze Hall and The collections and each of them have several subtitles. These are based on the content and they are simplified adn clear, useful to users to identify what they need quikly. 
 
 
 ## AR experience
@@ -34,9 +34,10 @@ Users can also explore the skeleton in [augmented reality (AR)](https://artsandc
 
 
 
+
 That is all about the experience of visiting a online exhibit. 
 
-Hope you enjoy it and have an online tour by yourselves.
+*Hope you enjoy it and have an online tour by yourselves.*
 
 
 

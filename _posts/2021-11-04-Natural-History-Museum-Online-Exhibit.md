@@ -11,7 +11,9 @@ In [Natural History Museum virtual museum](http://nhm.ac.uk/visit/virtual-museum
 
 Overall，the whole page is taken up by 3 backgroung images vertically and equally, each of them represents one scene: [The Ocean](https://www.nhm.ac.uk/bluewhale/ocean/), [Hintze Hall](https://www.nhm.ac.uk/bluewhale/hall/)  and [The collections](https://www.nhm.ac.uk/bluewhale/study/). At the top of the central，there is a title of website "The life of the blue whale". Below the title, there is a brief description of how to exploring the website. The 3 scenes are presented concisly, with just one background image plus title and the year in the center.
 
-With a click on any one of the secenes, a new page will open and more details about the scene will show. The subpage is the same style as the main page, with one full-screen background image and several text icons surrounding the centre part which is the image of the blue whale. Click on the text icons, users can scroll the screen to see the detailed introduction of the scene. These detail pages have texts on the left on top of the full-screen background images which will change along with the texts.
+With a click on any one of the secenes, a new page will open and more details about the scene will show. The subpage is the same style as the main page, with one full-screen background image and several text icons surrounding the center part which is the image of the blue whale. Click on the text icons, users can scroll the screen to see the detailed introduction of the scene. These detail pages have texts on the left on top of the full-screen background images which will change along with the texts.
+
+On all pages, there are 3 icons at the bottom right: facebook, twitter and other information. The first 2 are for users to share on social media and the other information includes copyright, privacy policy and terms&conditions.
 
 
 ## User Experience

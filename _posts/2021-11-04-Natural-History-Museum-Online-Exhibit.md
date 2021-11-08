@@ -21,7 +21,7 @@ The look of the online exhibit website is simple and clear. On the main page, in
 
 ## Categories
 
-There are 3 main categories of the website: The Ocean, Hintze Hall and The collections and each of them have several subtitles.
+There are 3 main categories of the website: The Ocean, Hintze Hall and The collections and each of them have several subtitles. 
 
 
 
@@ -32,11 +32,9 @@ Users can also explore the skeleton in [augmented reality (AR)](https://artsandc
 
 
 
-which makes me grateful for the digital technologies that prolong the life of these collections and give everyone access to this spectacular archieve.🙏
+That is all about the experience of visiting a online exhibit. 
 
-Hope you enjoy it and have an online tour by yourselves!!!😄😄
-
-
+Hope you enjoy it and have an online tour by yourselves.
 
 
 

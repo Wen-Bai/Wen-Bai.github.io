@@ -3,35 +3,20 @@
 
 
 
-Today I explored the life of the blue whale [Natural History Museum virtual museum](http://nhm.ac.uk/visit/virtual-museum.html). 
-
-
-was built for it and it was accompanied with realistic background sound which enhances the immediacy. To explore the whale, I only need to select an icon with a click.
-
-
-
-
-
-
 ## Background
-In Natural History Museum, it is difficult ignore the giant [blue whale](https://www.nhm.ac.uk/bluewhale/) suspended from the ceiling in Hintze Hall. It is symbol of hope - a public reminder that Earth's rich biodiversity may be at risk and humanity should protect it. The online exhibit throughly presents what the blue whale's life was like in the ocean, how she got to her home in the Museum and a behind-the-scenes peek of the Museum's collections.
+In [Natural History Museum virtual museum](http://nhm.ac.uk/visit/virtual-museum.html), it is difficult ignore the giant [blue whale](https://www.nhm.ac.uk/bluewhale/) suspended from the ceiling in Hintze Hall. It is symbol of hope - a public reminder that Earth's rich biodiversity may be at risk and we humanity should be in a better position to protect it. This online exhibit throughly presents what the blue whale's life was like in the ocean, how she got to her home in the Museum and a behind-the-scenes peek of the Museum's collections.
 
 
 ## Layout
 
-Overall，the whole page is divided vertically into 3 parts: [The Ocean](https://www.nhm.ac.uk/bluewhale/ocean/), [Hintze Hall](https://www.nhm.ac.uk/bluewhale/hall/)  and [The collections](https://www.nhm.ac.uk/bluewhale/study/). 
+Overall，the whole page is taken up by 3 backgroung images vertically and equally, each of them represents one scene: [The Ocean](https://www.nhm.ac.uk/bluewhale/ocean/), [Hintze Hall](https://www.nhm.ac.uk/bluewhale/hall/)  and [The collections](https://www.nhm.ac.uk/bluewhale/study/). At the top of the central，there is a title of website "The life of the blue whale". Below the title, there is a brief description of how to exploring the website. The 3 scenes are presented concisly, with just one background image plus title and the year in the center.
 
-
-At the top, there is an explanation of the exhibit(plus a list of filters, if they are being used).At the bottom is an online form where you can sign up to the
-Wildlife Photograoher of the Year newletter. The main part od the page is divided into rows with up to three photographs per row with no captions.However, each photograph has copyright information including 
+With a click on any one of the secenes, a new page will open and more details about the scene will show. The subpage is the same style as the main page, with one full-screen background image and several text icons surrounding the centre part which is the image of the blue whale. Click on the text icons, users can scroll the screen to see the detailed introduction of the scene. These detail pages have texts on the left on top of the full-screen background images which will change along with the texts.
 
 
 ## User Experience
 
-
-
-## Filter functionality
-
+The look of the online exhibit website is simple and clear. On the main page, information was simplified to 3 clear categories, which saves users a lot of time and make the whole experience easily. When exploring the online exhibit, users will hear realistic background sound kind of like white-noise which is very relaxing and enhances the feeling of immersion. As to visual impact, except those from detail pages, all backgroung images are high-quality and dynamic which can move along with the cursor, making users feel less boring and more focused whenm expolring the site. In addition, 
 
 
 ## Categories

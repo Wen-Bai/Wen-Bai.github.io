@@ -1,5 +1,5 @@
 ---
-**The Poetry Archive--The life of the blue whale**
+**The Poetry Archive**
 
 How is the site organised?
 • What kinds of content are featured on the site?

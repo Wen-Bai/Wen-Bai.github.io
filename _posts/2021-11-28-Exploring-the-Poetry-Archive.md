@@ -1,6 +1,6 @@
 ---
 ## Content Overview
-[The poetry Archive](https://poetryarchive.org/) is a online archive that connect poems with the voice of poets and you can read and listen to poems here. It contains poetry recordings, texts, interviews and a huge range of other materials, which is a useful resource for Poetry lovers and researchers. 
+[The poetry Archive](https://poetryarchive.org/) is an online archive that connect poems with the voice of poets and you can read and listen to poems here. It contains poetry recordings, texts, interviews and a huge range of other materials, which is a useful resource for Poetry lovers and researchers. 
 
 ## Website Layout
 

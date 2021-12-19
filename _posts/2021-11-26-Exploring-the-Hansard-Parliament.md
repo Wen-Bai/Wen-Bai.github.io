@@ -1,5 +1,4 @@
-
-----
+---
 **A useful resource of political debating**
 
 ## Content Overview

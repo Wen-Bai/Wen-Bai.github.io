@@ -13,7 +13,7 @@ The website has a search bar in the center of the start page and vistors can exp
 
 ## Poetry Appreciation 
 
-First of all, in terms of presentation form, the website not only has the introduction and full text of the poem, but also has the audio to listen to, allowing users to listen while doing other things. Secondly, in terms of content, apart from poems, there are introductions and interviews about poets. Thirdly, in terms of classification, the website currently has 40 collections of poetry to facilitate readers to choose content of interest, such as: Wordview 2021 Winners, Night listening and The Laurel Prize Winner's Collection, etc.
+In terms of presentation form, the website not only has the introduction and full text of the poem, but also has the audio to listen to. A certain audio was already selected on the main page and users can view the poem page or poet page by clicking on the 2 links under it. Apart from poems, there are introductions and interviews about poets which can be found on "expolre the archive" page. The website currently has 40 collections of poetry to facilitate readers to choose content of interest, such as: Wordview 2021 Winners, Night listening and The Laurel Prize Winner's Collection, etc.
 
 ## Research on Poetry
 
